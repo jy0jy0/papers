@@ -106,4 +106,4 @@
 | 2023/10 | [TimeGPT: Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2310.02255) | `foundation model` `time series` `gpt` | [GitHub](https://github.com/nixtla/timegpt) | |
 | 2022/05 | [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504) | `transformer` `forecasting` |  | [Blog](https://totravelhopefully.tistory.com/56) |
 | 2021/06 | [TS2Vec: Unsupervised Representation Learning for Time Series](https://arxiv.org/abs/2106.10466) | `unsupervised` `representation` | [GitHub](https://github.com/yuezhihan/ts2vec) | |
-| 2020/12 | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | `transformer` `long sequence` | [GitHub](https://github.com/zhouhaoyi/Informer2020) | [Notion](https://spiny-passbook-5d6.notion.site/Are-Transformers-Effective-for-Time-Series-Forecasting-12811fbc6dd446a185f1c0306666b693) |
+| 2020/12 | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | `transformer` `long sequence` | [GitHub](https://github.com/zhouhaoyi/Informer2020) ||
