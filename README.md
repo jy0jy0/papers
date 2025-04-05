@@ -20,7 +20,7 @@
 | 2023/10 | [A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4](https://arxiv.org/abs/2310.12321) | `survey` `gpt-3` `chatgpt` `gpt-4` |  |  |
 | 2023/05 | [Large Language Models are Zero-Shot Rankers for Recommender Systems](https://arxiv.org/abs/2305.08845) | `llm` `retrieval` `ranking` | [GitHub](https://github.com/RUCAIBox/LLMRank) |  |
 | 2022/11 | [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085) | `llm` `science` |  |  |
-| 2021/09 | [What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers](https://paperswithcode.com/paper/a-study-on-hyperclova) | `llm` `korean` `scaling` |  | [Notion](https://spiny-passbook-5d6.notion.site/Intensive-Study-on-HyperCLOVA-Billions-scale-Korean-Generative-Pretrained-Transformers-c6cb64c9f563471485f51519c801a244?pvs=4) |
+| 2021/09 | [What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers](https://arxiv.org/abs/2109.04650) | `llm` `korean` `scaling` |  | [Notion](https://spiny-passbook-5d6.notion.site/Intensive-Study-on-HyperCLOVA-Billions-scale-Korean-Generative-Pretrained-Transformers-c6cb64c9f563471485f51519c801a244?pvs=4) |
 | 2017/06 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | `transformer` `attention` |  |  |
 
 ## Retrieval-Augmented Generation (RAG)
@@ -37,11 +37,11 @@
 
 | Published | Title | Tags | Code | Note |
 |-----------|-------|------|------|------|
-| 2022/06 | [Pre-train Prompt Tuning with Human Feedback](https://arxiv.org/abs/2206.05826) | `prompt tuning` `rlhf` | [GitHub](https://github.com/eric-mitchell/pref) | |
+| 2022/06 | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | `prompt tuning` `rlhf` | [GitHub](https://github.com/openai/following-instructions-human-feedback) | |
 | 2022/05 | [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) | `prompting` `chain-of-thought` |  | |
-| 2022/04 | [Automatic Prompt Engineer (APE)](https://arxiv.org/abs/2211.01910) | `prompt generation` `search` | [GitHub](https://github.com/microsoft/LMOps/tree/main/llm/prompt) | |
+| 2022/04 | [Automatic Prompt Engineer (APE):Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910) | `prompt generation` `search` | [GitHub](https://github.com/keirp/automatic_prompt_engineer) | |
 | 2021/12 | [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) | `prompt tuning` `generation` | [GitHub](https://github.com/XiangLi1999/PrefixTuning) | |
-| 2021/10 | [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) | `prompt tuning` `efficient` | [GitHub](https://github.com/bojone/Prompt-Tuning) | |
+| 2021/10 | [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) | `prompt tuning` `efficient` | [GitHub](https://github.com/google-research/prompt-tuning) | |
 
 ## Causal Recommender Systems
 
@@ -72,7 +72,6 @@
 | Published | Title | Tags | Code | Note |
 |-----------|-------|------|------|------|
 | 2024/02 | [Robust Agents Learn Causal World Models](https://arxiv.org/abs/2402.10877) | `causal modeling` `rl` |  |  |
-| 2023/10 | [Causal Inference as a Blind Spot of Data Scientists](https://www.dzidas.com/ml/2023/10/15/blind-spot-ds/) | `opinion` `causality` |  |  |
 | 2023/08 | [Causally Estimating the Effect of YouTube's Recommender System using Counterfactual Bots](https://arxiv.org/abs/2308.10398) | `evaluation` `youtube` `counterfactual` |  |  |
 | 2022/03 | [Differentiable DAG Sampling](https://arxiv.org/abs/2203.08509) | `causal discovery` `dag` |  |  |
 | 2016/08 | [Double/Debiased Machine Learning for Treatment and Causal Parameters](https://arxiv.org/abs/1608.00060) | `econometrics` `treatment effect` | [GitHub](https://github.com/Microsoft/EconML) |  |
@@ -84,7 +83,7 @@
 | 2022/03 | [Language Modeling via Stochastic Processes](https://github.com/rosewang2008/language_modeling_via_stochastic_processes) | `probabilistic` `language modeling` | [GitHub](https://github.com/rosewang2008/language_modeling_via_stochastic_processes) | [Blog](https://totravelhopefully.tistory.com/89) |
 | 2021/09 | [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057) | `entity linking` `ner` `self-attention` | [GitHub](https://github.com/studio-ousia/luke) ||
 | 2020/10 | [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | `text-to-text` `pretraining` `transfer learning` | [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) | |
-| 2020/03 | [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) | `pretraining` `text encoders` | [GitHub](https://github.com/google-research/electra) | [Notion](https://spiny-passbook-5d6.notion.site/ELECTRA-PRE-TRAINING-TEXT-ENCODERS-AS-DISCRIMINATORS-RATHER-THAN-GENERATORS-9e953f5d898f4af4a054f7e4306f7694) |
+| 2020/03 | [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555) | `pretraining` `text encoders` | [GitHub](https://github.com/google-research/electra) | [Notion](https://spiny-passbook-5d6.notion.site/ELECTRA-PRE-TRAINING-TEXT-ENCODERS-AS-DISCRIMINATORS-RATHER-THAN-GENERATORS-9e953f5d898f4af4a054f7e4306f7694) |
 | 2019/10 | [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) | `pretraining` `autoregressive` | [GitHub](https://github.com/zihangdai/xlnet) | |
 | 2018/06 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | `pretraining` `masked lm` `bert` | [GitHub](https://github.com/google-research/bert) | |
 
@@ -103,7 +102,7 @@
 
 | Published | Title | Tags | Code | Note |
 |-----------|-------|------|------|------|
-| 2023/10 | [TimeGPT: Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2310.02255) | `foundation model` `time series` `gpt` | [GitHub](https://github.com/nixtla/timegpt) | |
-| 2022/05 | [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504) | `transformer` `forecasting` |  | [Blog](https://totravelhopefully.tistory.com/56) |
+| 2023/10 | [TimeGPT: Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2310.02255) | `foundation model` `time series` `gpt` | [GitHub](https://github.com/Nixtla/nixtla) | |
+| 2022/05 | [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504) | `transformer` `forecasting` | [GitHub](https://github.com/cure-lab/LTSF-Linear) | [Blog](https://totravelhopefully.tistory.com/56) |
 | 2021/06 | [TS2Vec: Unsupervised Representation Learning for Time Series](https://arxiv.org/abs/2106.10466) | `unsupervised` `representation` | [GitHub](https://github.com/yuezhihan/ts2vec) | |
 | 2020/12 | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) | `transformer` `long sequence` | [GitHub](https://github.com/zhouhaoyi/Informer2020) ||
