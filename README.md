@@ -15,6 +15,8 @@
 
 | Published | Title | Tags | Code | Note |
 |-----------|-------|------|------|------|
+| 2025/03 | [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678) | `llm` `multi-agent` `medical` | [GitHub](https://github.com/MAXNORM8650/MedAgentSim) | LLM 기반 멀티에이전트 의료 시뮬레이션 환경 MedAgentSim 제안 |
+| 2025/03 | [Inside-Out: Hidden Factual Knowledge in LLMs](https://arxiv.org/abs/2503.15299) | `llm` `factual knowledge` `interpretability` |  | LLM 내부 지식과 출력 간의 격차 분석 |
 | 2025/02 | [Do Large Language Models Reason Causally Like Us? Even Better?](https://arxiv.org/abs/2502.10215) | `llm` `causal reasoning` |  |  |
 | 2024/02 | [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196) | `survey` `llm` |  |  |
 | 2023/10 | [A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4](https://arxiv.org/abs/2310.12321) | `survey` `gpt-3` `chatgpt` `gpt-4` |  |  |
@@ -32,6 +34,13 @@
 | 2022/12 | [Atlas: Few-Shot Learning with Retrieval-Augmented Models](https://arxiv.org/abs/2208.03299) | `rag` `few-shot` `retrieval` | [GitHub](https://github.com/facebookresearch/atlas) |  |
 | 2020/05 | [RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) | `rag` `generation` `qa` |  |  |
 | 2020/02 | [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) | `rag` `pretraining` `retrieval` | [GitHub](https://github.com/google-research/language/tree/master/language/realm) |  |
+
+## Multimodal Models
+
+| Published | Title | Tags | Code | Note |
+|-----------|-------|------|------|------|
+| 2024/08 | [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039) | `multimodal` `transformer` `diffusion` |  | |
+
 
 ## Prompt Engineering
 
